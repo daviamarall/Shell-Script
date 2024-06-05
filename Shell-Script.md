@@ -22,7 +22,7 @@ Vamos começar com o básico!
 ```
 
 #### 2. Comandos Básicos e Estrutura de um Script
-```markdown
+```
 ## 2. Comandos Básicos e Estrutura de um Script
 
 ### Estrutura de um Script
@@ -62,7 +62,7 @@ pwd
 ```
 
 #### 3. Variáveis e Tipos de Dados
-```markdown
+```
 ## 3. Variáveis e Tipos de Dados
 
 ### Variáveis
@@ -98,7 +98,7 @@ echo "Minhas frutas favoritas são: ${frutas[@]}"
 ```
 
 #### 4. Estruturas de Controle
-```markdown
+```
 ## 4. Estruturas de Controle
 
 ### Condicionais
@@ -139,7 +139,7 @@ esac
 ```
 
 #### 5. Loops
-```markdown
+```
 ## 5. Loops
 
 ### Loop For
@@ -170,7 +170,7 @@ done
 ```
 
 #### 6. Funções
-```markdown
+```
 ## 6. Funções
 
 Funções permitem agrupar comandos e reutilizá-los.
@@ -268,7 +268,7 @@ echo "Depuração desativada"
 ```
 
 #### 9. Exercícios Práticos
-```markdown
+```
 ## 9. Exercícios Práticos
 
 ### Exercício 1: Script de Backup
