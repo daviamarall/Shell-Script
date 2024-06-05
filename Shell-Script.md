@@ -19,8 +19,7 @@ Shell Script é uma linguagem de script usada para automatizar tarefas em sistem
 - Conhecimento básico de linha de comando
 
 Vamos começar com o básico!
-```
-```
+
 ## 2. Comandos Básicos e Estrutura de um Script
 
 ### Estrutura de um Script
@@ -57,8 +56,6 @@ ls
 # Mostrando o diretório atual
 pwd
 ```
-```
-```
 ## 3. Variáveis e Tipos de Dados
 
 ### Variáveis
@@ -91,8 +88,7 @@ echo $saudacao
 echo "Tenho $idade anos"
 echo "Minhas frutas favoritas são: ${frutas[@]}"
 ```
-```
-```
+
 ## 4. Estruturas de Controle
 
 ### Condicionais
