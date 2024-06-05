@@ -21,7 +21,6 @@ Shell Script é uma linguagem de script usada para automatizar tarefas em sistem
 Vamos começar com o básico!
 ```
 
-#### 2. Comandos Básicos e Estrutura de um Script
 ```
 ## 2. Comandos Básicos e Estrutura de um Script
 
