@@ -247,14 +247,15 @@ ls
 set +x
 echo "Depuração desativada"
 ```
-```
-'''
+
+
 ## 9. Exercícios Práticos
 
 ### Exercício 1: Script de Backup
 Crie um script que faça backup de um diretório especificado para um diretório de backup.
 
 #### Exemplo: `backup.sh`
+
 ```bash
 #!/bin/bash
 # Diretório de origem
