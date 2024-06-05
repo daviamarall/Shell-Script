@@ -59,8 +59,6 @@ ls
 pwd
 ```
 ```
-
-#### 3. Variáveis e Tipos de Dados
 ```
 ## 3. Variáveis e Tipos de Dados
 
@@ -95,8 +93,6 @@ echo "Tenho $idade anos"
 echo "Minhas frutas favoritas são: ${frutas[@]}"
 ```
 ```
-
-#### 4. Estruturas de Controle
 ```
 ## 4. Estruturas de Controle
 
@@ -136,8 +132,6 @@ case $dia in
 esac
 ```
 ```
-
-#### 5. Loops
 ```
 ## 5. Loops
 
@@ -167,8 +161,6 @@ while [ $contador -le 5 ]; do
 done
 ```
 ```
-
-#### 6. Funções
 ```
 ## 6. Funções
 
@@ -203,8 +195,6 @@ saudacao "Maria"
 ```
 ```
 
-#### 7. Manipulação de Arquivos
-```markdown
 ## 7. Manipulação de Arquivos
 
 ### Criando e Lendo Arquivos
@@ -235,8 +225,6 @@ fi
 ```
 ```
 
-#### 8. Tratamento de Erros e Debugging
-```markdown
 ## 8. Tratamento de Erros e Debugging
 
 ### Tratamento de Erros
@@ -266,8 +254,6 @@ echo "Depuração desativada"
 ```
 ```
 
-#### 9. Exercícios Práticos
-```
 ## 9. Exercícios Práticos
 
 ### Exercício 1: Script de Backup
