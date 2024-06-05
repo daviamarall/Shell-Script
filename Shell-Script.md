@@ -188,7 +188,7 @@ saudacao() {
 
 saudacao "Maria"
 ```
-```
+
 
 ## 7. Manipulação de Arquivos
 
@@ -218,7 +218,7 @@ else
   echo "O arquivo teste.txt não existe."
 fi
 ```
-```
+
 
 ## 8. Tratamento de Erros e Debugging
 
@@ -264,8 +264,10 @@ origem="/caminho/para/origem"
 destino="/caminho/para/backup"
 # Nome do arquivo de backup
 arquivo_backup="backup_$(date +%Y%m%d%H%M%S).tar.gz"
+```
 
 # Criando o backup
+```bash
 tar -czf $destino/$arquivo_backup $origem
 echo "Backup criado em $destino/$arquivo_backup"
 ```
