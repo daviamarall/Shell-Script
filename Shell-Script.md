@@ -126,8 +126,7 @@ case $dia in
     ;;
 esac
 ```
-```
-```
+
 ## 5. Loops
 
 ### Loop For
@@ -155,8 +154,7 @@ while [ $contador -le 5 ]; do
   ((contador++))
 done
 ```
-```
-```
+
 ## 6. Funções
 
 Funções permitem agrupar comandos e reutilizá-los.
@@ -289,4 +287,4 @@ else
   echo "Utilização do disco está dentro do limite."
 fi
 ```
-```
+
